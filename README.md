@@ -1,3 +1,2 @@
 # engsoftware
-
-Este repositório guardará os materiais da disciplina de Engenharia de software
+marretada do thor ou porradiro de leve
